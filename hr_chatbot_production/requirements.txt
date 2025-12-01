@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework
+python-dotenv
+mysql-connector-python
+sentence-transformers
+faiss-cpu
+transformers
+torch

@@ -1,0 +1,41 @@
+text,label
+How many special leaves do I have left?,DYNAMIC
+What is the rule for maternity leave?,STATIC
+Give full details about earned leave.,STATIC
+Tell me the official policy regarding paternity leave.,STATIC
+How much ACL balance do I have?,DYNAMIC
+How many casual leaves do I have left?,DYNAMIC
+What is the rule for special leave?,STATIC
+Provide policy guidelines for maternity leave.,STATIC
+Check my remaining earned leaves.,DYNAMIC
+Tell me my leave balance.,DYNAMIC
+Is there any policy for special leave?,STATIC
+Provide policy guidelines for paternity leave.,STATIC
+Explain the casual leave policy.,STATIC
+Tell me the official policy regarding on-duty leave.,STATIC
+Check my remaining special leaves.,DYNAMIC
+Explain the maternity leave policy.,STATIC
+How many days of leave can I take?,DYNAMIC
+Tell me the official policy regarding paternity leave.,STATIC
+How much ACL balance do I have?,DYNAMIC
+Tell me my leave balance.,DYNAMIC
+Provide policy guidelines for medical leave.,STATIC
+Explain the medical leave policy.,STATIC
+Tell me the official policy regarding late coming policy.,STATIC
+How does special leave work?,STATIC
+Give full details about paternity leave.,STATIC
+Tell me the official policy regarding half-day policy.,STATIC
+How does late coming policy work?,STATIC
+Provide policy guidelines for special leave.,STATIC
+What are the rules for half-day policy?,STATIC
+How many days of leave can I take?,DYNAMIC
+Tell me the official policy regarding half-day policy.,STATIC
+Do I have enough leave for vacation?,DYNAMIC
+What are the rules for maternity leave?,STATIC
+How many days of leave can I take?,DYNAMIC
+Check my remaining casual leaves.,DYNAMIC
+How much ACL balance do I have?,DYNAMIC
+Tell me my leave balance.,DYNAMIC
+How many acl leaves do I have left?,DYNAMIC
+Is there any policy for holiday policy?,STATIC
+Explain the on-duty leave policy.,STATIC
